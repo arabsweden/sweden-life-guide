@@ -1,0 +1,6 @@
+{
+  "name": "دليل الحياة في السويد | Sweden Life Guide",
+  "description": "منصة إرشادية عربية موثوقة للأسئلة والمعلومات الرسمية عن الحياة والإقامة والعمل في السويد برعاية RAED SHIHAB",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
